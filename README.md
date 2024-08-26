@@ -1,10 +1,8 @@
-###
 <h1 align="center">Hey there 👋</h1>
-###
-<h3 align="left">👩‍💻  About Me</h3>
-###
 
-- I’m @sachinbasyal
+<h3 align="left">👩‍💻  About Me</h3>
+
+- 👋 I’m @sachinbasyal
 - 👀 I’m interested in React.js, NodeJs, JavaScript, Python, MongoDB, OOPL, and Java.
 - 🌱 I’m currently learning Full-Stack Web Development (MERN Stack)
 - Proficient in IT/ICT domain: DVB-S2/T2/C, Communications Technology, and Broadcast Media Services
@@ -27,8 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="80" alt="tailwindcss logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
