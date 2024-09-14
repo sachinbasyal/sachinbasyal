@@ -3,13 +3,12 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 - 👋 I’m @sachinbasyal
-- 👀 I’m interested in React.js, NodeJs, JavaScript, Python, MongoDB, OOPL, and Java.
+- 👀 I’m interested in SQA, React.js, Node.js, JavaScript, Python, MongoDB, OOPL, and Java.
 - 🌱 I’m currently learning Full-Stack Web Development (MERN Stack)
-- Proficient in IT/ICT domain: DVB-S2/T2/C, Communications Technology, and Broadcast Media Services
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ⚡ Proficient in IT/ICT domain: Streaming Media, DVB-S2/T2/C, Communications Technology, and Broadcast Media Services
+- 📫 How to reach me: check my website: https://sachinbasyal.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Am de' 1 < 2 ;)
+- 💞️ Fun fact: Am de' 1 < 2 ;) 
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
