@@ -1,17 +1,19 @@
 <h1 align="center">Hey there 👋, I'm Sachin Basyal</h1>
 <h3 align="center">A passionate frontend and backend developer from Columbus, Ohio, United States.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbasyal&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbasyal" /> </p>
-<img align="right" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY0MTE2NTgsIm5iZiI6MTcyNjQxMTM1OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE1VDE0NDIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwZGNiNzVmMWVhNDFjMGZlYWM4YTEwZDliNzI4NWI1OGNjNWRiMGRmYjIyYmY4NzQwYTNmMmE4YTExYWJhOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.De9bhle4gVjpqR_GAEUCfrVLa4-nTY-i4ykIzW_bd9s" alt="coding" height="200"/>
+
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">
-- 👀 I’m interested in SQA, React.js, Node.js, JavaScript, Python, MongoDB, OOPL, and Java.
-- 🌱 Currently learning Full-Stack Web Development (MERN Stack)
-- 🔭 Working on fudamentals of Data Analytics
-- ⚡ Proficient in IT/ICT domain: Streaming Media, DVB-S2/T2/C, Communications Technology, and Broadcast Media Services
-- 📫 How to reach me: sachinbasyal@gmail.com
-- 😄 Pronouns: He/Him
-- 💞️ Fun fact: Am de' 1 < 2 ;) 
-</p>
+
+  - 👀 I’m interested in SQA, React.js, Node.js, JavaScript, Python, MongoDB, OOPL, and Java.
+  - 🌱 Currently learning Full-Stack Web Development (MERN Stack)
+  - 🔭 Working on fudamentals of Data Analytics
+  - ⚡ Proficient in IT/ICT domain: Streaming Media, DVB-S2/T2/C, Communications Technology, and Broadcast Media Services
+  - 📫 How to reach me: sachinbasyal@gmail.com
+  - 😄 Pronouns: He/Him
+  - 💞️ Fun fact: Am de' 1 < 2 ;) 
+  
+<img align="right" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY0MTE2NTgsIm5iZiI6MTcyNjQxMTM1OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE1VDE0NDIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwZGNiNzVmMWVhNDFjMGZlYWM4YTEwZDliNzI4NWI1OGNjNWRiMGRmYjIyYmY4NzQwYTNmMmE4YTExYWJhOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.De9bhle4gVjpqR_GAEUCfrVLa4-nTY-i4ykIzW_bd9s" alt="coding" height="200"/> 
+  
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
