@@ -5,10 +5,10 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-  - 👀 I’m interested in SQA, React.js, Node.js, JavaScript, Python, MongoDB, OOPL, and Java.
+  - 👀 I’m interested in SQA, DevOps, React.js, Node.js, JavaScript, Python, MongoDB, OOPL, and Java.
   - 🌱 Currently learning Full-Stack Web Development (MERN Stack)
   - 🔭 Working on fudamentals of Data Analytics
-  - ⚡ Proficient in IT/ICT domain: Streaming Media, DVB-S2/T2/C, Communications Technology, and Broadcast Media Services
+  - ⚡ Proficient in IT/ICT domain: Streaming Media, DTH, OTT, IPTV, DVB-S2/T2/C, Communications Technology, and Broadcast Media Services
   - 📫 How to reach me: sachinbasyal@gmail.com
   - 😄 Fun fact: Am de' 1 < 2 ;) 
   
