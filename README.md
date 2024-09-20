@@ -7,7 +7,7 @@
 
   - 👀 I’m interested in SQA, DevOps, React.js, Node.js, JavaScript, Python, MongoDB, OOPL, and Java.
   - 🌱 Currently learning Full-Stack Web Development (MERN Stack)
-  - 🔭 Working on fudamentals of Data Analytics
+  - 🔭 Working on fundamentals of (Cloud) DevOps
   - ⚡ Proficient in IT/ICT domain: Streaming Media, DTH, OTT, IPTV, DVB-S2/T2/C, Communications Technology, and Broadcast Media Services
   - 📫 How to reach me: sachinbasyal@gmail.com
   - 😄 Fun fact: Am de' 1 < 2 ;) 
