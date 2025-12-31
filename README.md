@@ -7,7 +7,7 @@
 
   - 👀 I’m interested in Data Science, Machine Learning, Data Analytics, Python, SQL, and Java programming.
   - 🌱 Currently pursuing MS-Computer Science with Specialization in Data Analytics, and learning Software Programming.
-  - 🔭 Working on fundamentals of (Cloud) DevOps Platform.
+  - 🔭 Working on fundamentals of AI/ML, Data Science, Statistics, and (Cloud) DevOps Platform.
   - ⚡ Proficient in IT/ICT domain: Streaming Media, DTH, OTT, IPTV, DVB-S2/T2/C, Communications Technology, and Broadcast Media Services.
   - 📫 How to reach me: sachinbasyal@gmail.com
   - 😄 Fun fact: Am de' 1 < 2 ;) 
