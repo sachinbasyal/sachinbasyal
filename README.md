@@ -5,7 +5,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-  - 👀 I’m interested in Data Analytics, Data Science, Python, SQL, and Java.
+  - 👀 I’m interested in Data Science, Machine Learning, Data Analytics, Python, SQL, and Java programming.
   - 🌱 Currently pursuing MS-Computer Science with Specialization in Data Analytics, and learning Software Programming.
   - 🔭 Working on fundamentals of (Cloud) DevOps Platform.
   - ⚡ Proficient in IT/ICT domain: Streaming Media, DTH, OTT, IPTV, DVB-S2/T2/C, Communications Technology, and Broadcast Media Services.
